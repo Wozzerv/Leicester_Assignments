@@ -14,7 +14,7 @@ open (FILE2, "diffexp.tsv") or die("Could not open the second file.\n");
 #Seperate the first file by tabs and make a hash with the names as the keys to the descriptions.
 while (<FILE1>) {
 	 @columns = split ("\t", $_);
-	 $hash {$columns[3]} = $columns[4];
+	 $hash{$columns[3]} = $columns[4];
 }
 #Open the file where the results will be moved into.
 open (OUTPUT, ">output.tsv");
@@ -25,7 +25,7 @@ while (<FILE2>) {
 	
 	if (exists $hash{$columns2[0]}) {
 		print OUTPUT ("$columns2[0]\t$hash{$columns2[0]}\t$columns2[4]");
-}
+	}
 }	
 #close all files used.	
 close (FILE1);
