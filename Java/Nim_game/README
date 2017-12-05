@@ -1,0 +1,3 @@
+These classes create a game where the user creates two players and initialises three piles of any counter size. 
+The Players then sequentially remove any number of counters from one pile at a time until all counters are removed
+from all three piles.
