@@ -1,0 +1,776 @@
+Input	Input Type	MGI Gene/Marker ID	Symbol	Name	Feature Type
+GO:0003723	Gene Ontology (GO)	MGI:87879	Aco1	aconitase 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88022	Ang	angiogenin, ribonuclease, RNase A family, 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88042	Apex1	apurinic/apyrimidinic endonuclease 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88252	Calr	calreticulin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88431	Cnbp	cellular nucleic acid binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88437	Cnp	2',3'-cyclic nucleotide 3' phosphodiesterase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:88527	Cryz	crystallin, zeta	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:90676	Lsm2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:91842	D1Pas1	DNA segment, Chr 1, Pasteur Institute 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:92356	Csde1	cold shock domain containing E1, RNA binding	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:94890	Dhfr	dihydrofolate reductase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:94902	Dlx2	distal-less homeobox 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:94912	Dnmt1	DNA methyltransferase (cytosine-5) 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95288	Eef2	eukaryotic translation elongation factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95298	Eif1a	eukaryotic translation initiation factor 1A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95299	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95300	Eif2b4	eukaryotic translation initiation factor 2B, subunit 4 delta	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95301	Eif3a	eukaryotic translation initiation factor 3, subunit A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95303	Eif4a1	eukaryotic translation initiation factor 4A1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95304	Eif4b	eukaryotic translation initiation factor 4B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95309	Eif5	eukaryotic translation initiation factor 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95486	Fbl	fibrillarin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95513	Fech	ferrochelatase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95564	Fmr1	fragile X mental retardation syndrome 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96113	Hmgb1	high mobility group box 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96250	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96270	Trmt2a	TRM2 tRNA methyltransferase 2 homolog A (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96676	Kin	antigenic determinant of rec-A protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96790	Lipe	lipase, hormone sensitive	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:96819	Anxa1	annexin A1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97054	Mov10	Moloney leukemia virus 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97286	Ncl	nucleolin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97746	Endou	endonuclease, polyU-specific	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97791	Ptbp1	polypyrimidine tract binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97837	Qk	quaking	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97838	Eprs	glutamyl-prolyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97856	Rara	retinoic acid receptor, alpha	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97946	Rn4.5s	4.5S RNA	rRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:97960	Rnps1	ribonucleic acid binding protein S1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98073	Rpl7	ribosomal protein L7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98107	Rps14	ribosomal protein S14	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98117	Rps15	ribosomal protein S15	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98118	Rps16	ribosomal protein S16	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98146	Rps18	ribosomal protein S18	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98158	Rps4x	ribosomal protein S4, X-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98282	Sfpi1	SFFV proviral integration 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98283	Srsf1	serine/arginine-rich splicing factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98284	Srsf2	serine/arginine-rich splicing factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98285	Srsf3	serine/arginine-rich splicing factor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98341	Snrnp70	small nuclear ribonucleoprotein 70 (U1)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98342	Snrpb	small nuclear ribonucleoprotein B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98346	Snrpe	small nuclear ribonucleoprotein E	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98347	Snrpn	small nuclear ribonucleoprotein N	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98353	Son	Son DNA binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98359	Sox11	SRY-box containing gene 11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98364	Sox2	SRY-box containing gene 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98423	Ssb	Sjogren syndrome antigen B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98447	Surf6	surfeit gene 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98742	Thra	thyroid hormone receptor alpha	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98817	Hsp90b1	heat shock protein 90, beta (Grp94), member 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98852	Tst	thiosulfate sulfurtransferase, mitochondrial	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98878	Tyms	thymidylate synthase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98884	U2af1	U2 small nuclear ribonucleoprotein auxiliary factor (U2AF) 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98885	Zrsr1	zinc finger (CCCH type), RNA binding motif and serine/arginine rich 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98886	U2af2	U2 small nuclear ribonucleoprotein auxiliary factor (U2AF) 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:98968	Wt1	Wilms tumor 1 homolog	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99146	Ybx1	Y box protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99150	Yy1	YY1 transcription factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99180	Zfp36	zinc finger protein 36	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99240	Ddx39b	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99256	Hdlbp	high density lipoprotein (HDL) binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99257	Eif3e	eukaryotic translation initiation factor 3, subunit E	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99262	Rpl22	ribosomal protein L22	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99458	Mef2c	myocyte enhancer factor 2C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99526	Ddx19a	DEAD (Asp-Glu-Ala-Asp) box polypeptide 19a	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99894	Hnrnpk	heterogeneous nuclear ribonucleoprotein K	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99918	Mecp2	methyl CpG binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99954	Ighmbp2	immunoglobulin mu binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:99960	Ewsr1	Ewing sarcoma breakpoint region 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:101760	Sfswap	splicing factor, suppressor of white-apricot homolog (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:101800	Dppa5a	developmental pluripotency associated 5A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:101893	Pou5f1	POU domain, class 5, transcription factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:101947	Hnrnpd	heterogeneous nuclear ribonucleoprotein D	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:102470	mt-Ty	mitochondrially encoded tRNA tyrosine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102471	mt-Tw	mitochondrially encoded tRNA tryptophan	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102472	mt-Tv	mitochondrially encoded tRNA valine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102473	mt-Tt	mitochondrially encoded tRNA threonine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102474	mt-Ts2	mitochondrially encoded tRNA serine 2	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102475	mt-Ts1	mitochondrially encoded tRNA serine 1	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102476	mt-Tr	mitochondrially encoded tRNA arginine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102477	mt-Tq	mitochondrially encoded tRNA glutamine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102478	mt-Tp	mitochondrially encoded tRNA proline	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102479	mt-Tn	mitochondrially encoded tRNA asparagine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102480	mt-Tm	mitochondrially encoded tRNA methionine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102481	mt-Tl2	mitochondrially encoded tRNA leucine 2	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102482	mt-Tl1	mitochondrially encoded tRNA leucine 1	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102483	mt-Tk	mitochondrially encoded tRNA lysine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102484	mt-Ti	mitochondrially encoded tRNA isoleucine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102485	mt-Th	mitochondrially encoded tRNA histidine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102486	mt-Tg	mitochondrially encoded tRNA glycine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102487	mt-Tf	mitochondrially encoded tRNA phenylalanine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102488	mt-Te	mitochondrially encoded tRNA glutamic acid	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102489	mt-Td	mitochondrially encoded tRNA aspartic acid	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102490	mt-Tc	mitochondrially encoded tRNA cysteine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102491	mt-Ta	mitochondrially encoded tRNA alanine	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:102683	Grb7	growth factor receptor bound protein 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:102744	Rdbp	RD RNA-binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:102774	Aimp1	aminoacyl tRNA synthetase complex-interacting multifunctional protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:102854	Rpl5	ribosomal protein L5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:103027	Tarbp2	TAR (HIV) RNA binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:103064	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:103258	Adad1	adenosine deaminase domain containing 1 (testis specific)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:103287	Zrsr2	zinc finger (CCCH type), RNA binding motif and serine/arginine rich 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:103298	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104296	Nova2	neuro-oncological ventral antigen 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104297	Nova1	neuro-oncological ventral antigen 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104537	Brca1	breast cancer 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104626	Strbp	spermatid perinuclear RNA binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104729	Akap1	A kinase (PRKA) anchor protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104783	Atxn1	ataxin 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104805	Snrpb2	U2 small nuclear ribonucleoprotein B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104816	Hnrnpl	heterogeneous nuclear ribonucleoprotein L	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104819	Hnrnpa2b1	heterogeneous nuclear ribonucleoprotein A2/B1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104820	Hnrnpa1	heterogeneous nuclear ribonucleoprotein A1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104860	Fxr1	fragile X mental retardation gene 1, autosomal homolog	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104896	Srsf9	serine/arginine-rich splicing factor 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104976	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:105037	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:105110	Rps2	ribosomal protein S2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:105125	Eif1	eukaryotic translation initiation factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106016	Tra2b	transformer 2 beta homolog (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106184	Npm1	nucleophosmin 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106214	Jrk	jerky	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106248	Eif5a	eukaryotic translation initiation factor 5A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106253	D19Bwg1357e	DNA segment, Chr 19, Brigham & Women's Genetics 1357 expressed	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106330	Larp4b	La ribonucleoprotein domain family, member 4B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106368	Rbfox3	RNA binding protein, fox-1 homolog (C. elegans) 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106417	Cherp	calcium homeostasis endoplasmic reticulum protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106478	Eif3b	eukaryotic translation initiation factor 3, subunit B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106479	Grsf1	G-rich RNA sequence binding factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106572	Imp4	IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106652	Trove2	TROVE domain family, member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:106906	Eif4a2	eukaryotic translation initiation factor 4A2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107169	Srp14	signal recognition particle 14	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107252	Nsun2	NOL1/NOP2/Sun domain family member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107339	Gfm1	G elongation factor, mitochondrial 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107376	Msi1	Musashi homolog 1(Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107427	Elavl4	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 4 (Hu antigen D)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107490	Pdcd4	programmed cell death 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107624	Mvk	mevalonate kinase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107634	Larp7	La ribonucleoprotein domain family, member 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107726	Supt6h	suppressor of Ty 6 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107795	Hnrnpc	heterogeneous nuclear ribonucleoprotein C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107877	Prkcsh	protein kinase C substrate 80K-H	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107889	Exosc5	exosome component 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107913	Tial1	Tia1 cytotoxic granule-associated RNA binding protein-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107914	Tia1	cytotoxic granule-associated RNA binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107945	Zfp36l2	zinc finger protein 36, C3H type-like 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107946	Zfp36l1	zinc finger protein 36, C3H type-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107995	Upf1	UPF1 regulator of nonsense transcripts homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:108177	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:108202	Pcbp2	poly(rC) binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:108402	Slbp	stem-loop binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:108442	Cpeb1	cytoplasmic polyadenylation element binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109157	Elavl3	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 3 (Hu antigen C)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109207	Eif4g2	eukaryotic translation initiation factor 4, gamma 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109257	Smn1	survival motor neuron 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109263	Tsn	translin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109301	Papola	poly (A) polymerase alpha	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109342	Eif2d	eukaryotic translation initiation factor 2D	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109367	Impdh2	inosine 5'-phosphate dehydrogenase 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109489	Snrpc	U1 small nuclear ribonucleoprotein C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109580	Sf3b4	splicing factor 3b, subunit 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:891964	Xrn1	5'-3' exoribonuclease 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:891999	Adarb1	adenosine deaminase, RNA-specific, B1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:893579	Khdrbs1	KH domain containing, RNA binding, signal transduction associated 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:894659	Hbp1	high mobility group box transcription factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:894684	Pa2g4	proliferation-associated 2G4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:109573	Tep1	telomerase associated protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1095403	Sf1	splicing factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1096317	Eef1a2	eukaryotic translation elongation factor 1 alpha 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1096372	Ybx2	Y box protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1096881	Eef1a1	eukaryotic translation elongation factor 1 alpha 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1097682	Rps5	ribosomal protein S5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098224	Rad51ap1	RAD51 associated protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098272	Rnasel	ribonuclease L (2', 5'-oligoisoadenylate synthetase-dependent)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098547	Nhp2	NHP2 ribonucleoprotein homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098653	Rbm34	RNA binding motif protein 34	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098684	Eif2a	eukaryotic translation initiation factor 2A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1098791	Sepsecs	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1099460	Rbm3	RNA binding motif protein 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1100851	Elavl1	ELAV (embryonic lethal, abnormal vision)-like 1 (Hu antigen R)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1100865	Rbm4	RNA binding motif protein 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1100887	Elavl2	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1195261	Eef2k	eukaryotic elongation factor-2 kinase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1195985	Cbx4	chromobox 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1196288	Eif6	eukaryotic translation initiation factor 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1196294	Fubp1	far upstream element (FUSE) binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1196368	Carhsp1	calcium regulated heat stable protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1196439	Cbx7	chromobox 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:107368	Tcea2	transcription elongation factor A (SII), 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1196908	Tcea3	transcription elongation factor A (SII), 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1201671	Synj2	synaptojanin 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1201779	Hnrnph2	heterogeneous nuclear ribonucleoprotein H2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:893588	Cirbp	cold inducible RNA binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1202294	Aff2	AF4/FMR2 family, member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1202709	Tert	telomerase reverse transcriptase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1203484	Zfml	zinc finger, matrin-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1261425	Drosha	drosha, ribonuclease type III	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97429	Oas1g	2'-5' oligoadenylate synthetase 1G	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:97430	Oas1b	2'-5' oligoadenylate synthetase 1B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1274787	Trdmt1	tRNA aspartic acid methyltransferase 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1276102	Aqr	aquarius	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1277172	Ddx56	DEAD (Asp-Glu-Ala-Asp) box polypeptide 56	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1277968	Ptrf	polymerase I and transcript release factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1277973	Thumpd3	THUMP domain containing 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1289155	Trmt1	TRM1 tRNA methyltransferase 1 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1289273	Ppp1r10	protein phosphatase 1, regulatory subunit 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1289274	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1298379	Matr3	matrin 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1306823	Dhx8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1313286	Eif2b3	eukaryotic translation initiation factor 2B, subunit 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1313312	Khdrbs3	KH domain containing, RNA binding, signal transduction associated 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1315195	Emg1	EMG1 nucleolar protein homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1316728	Gspt1	G1 to S phase transition 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:104732	Rbmy1a1	RNA binding motif protein, Y chromosome, family 1, member A1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1328361	Bard1	BRCA1 associated RING domain 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1328363	Ccnt1	cyclin T1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1328368	Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1330294	Hnrnpab	heterogeneous nuclear ribonucleoprotein A/B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1330312	Magoh	mago-nashi homolog, proliferation-associated (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1333805	Srsf10	serine/arginine-rich splicing factor 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1333813	Mbd2	methyl-CpG binding domain protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1334446	Rbpms	RNA binding protein gene with multiple splicing	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1336214	Khsrp	KH-type splicing regulatory protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1336880	Eftud2	elongation factor Tu GTP binding domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1338011	Auh	AU RNA binding protein/enoyl-coenzyme A hydratase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1338779	Purb	purine rich element binding protein B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1338822	Celf2	CUGBP, Elav-like family member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1338864	Stau1	staufen (RNA binding protein) homolog 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1339973	Ilf3	interleukin enhancer binding factor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1339986	Mettl1	methyltransferase like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341044	Alyref	Aly/REF export factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341788	Pdcd11	programmed cell death 11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341822	Eif4h	eukaryotic translation initiation factor 4H	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341830	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341890	Zfr	zinc finger RNA binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1341908	Uhmk1	U2AF homology motif (UHM) kinase 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1342295	Celf1	CUGBP, Elav-like family member 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1342328	Dazl	deleted in azoospermia-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1342774	Ppargc1a	peroxisome proliferative activated receptor, gamma, coactivator 1 alpha	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1343044	Rbmx	RNA binding motif protein, X chromosome	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1343045	Rbmxl1	RNA binding motif protein, X linked-like-1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1343054	Cstf2	cleavage stimulation factor, 3' pre-RNA subunit 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1344375	Prkra	protein kinase, interferon inducible double stranded RNA dependent activator	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1344390	Oasl2	2'-5' oligoadenylate synthetase-like 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1345633	Mars	methionine-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1345635	Pcbp1	poly(rC) binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1346016	Rgnef	Rho-guanine nucleotide exchange factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1346035	Farsb	phenylalanyl-tRNA synthetase, beta subunit	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1346087	Srp54a	signal recognition particle 54A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1347006	Psma6	proteasome (prosome, macropain) subunit, alpha type 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349406	Ddx3y	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349417	Zfp346	zinc finger protein 346	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349430	Eif2s3y	eukaryotic translation initiation factor 2, subunit 3, structural gene Y-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349431	Eif2s3x	eukaryotic translation initiation factor 2, subunit 3, structural gene X-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349722	Pabpc1	poly(A) binding protein, cytoplasmic 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1349723	Pabpc2	poly(A) binding protein, cytoplasmic 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1350917	Rps3	ribosomal protein S3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1350927	Rpl8	ribosomal protein L8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1350930	Srp9	signal recognition particle 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351329	Rps11	ribosomal protein S11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351333	Thoc5	THO complex 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351337	Ddx24	DEAD (Asp-Glu-Ala-Asp) box polypeptide 24	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351465	G3bp1	Ras-GTPase-activating protein SH3-domain binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351474	Nufip1	nuclear fragile X mental retardation protein interacting protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351477	Cars	cysteinyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351628	Rps26	ribosomal protein S26	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1351744	Eif3m	eukaryotic translation initiation factor 3, subunit M	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1352460	Nr0b1	nuclear receptor subfamily 0, group B, member 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1352508	Stau2	staufen (RNA binding protein) homolog 2 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:95305	Eif4e	eukaryotic translation initiation factor 4E	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353427	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353449	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353582	Ddx25	DEAD (Asp-Glu-Ala-Asp) box polypeptide 25	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353589	Cbx8	chromobox 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353631	Adat1	adenosine deaminase, tRNA-specific 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353633	Fus	fusion, derived from t(12;16) malignant liposarcoma (human)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1353636	Abt1	activator of basal transcription 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1354692	Lsm4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1354737	Kdm2b	lysine (K)-specific demethylase 2B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1354961	Synj1	synaptojanin 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1355299	Hnrpdl	heterogeneous nuclear ribonucleoprotein D-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1355319	Exosc9	exosome component 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1355322	Exosc10	exosome component 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1855690	Snrpa	small nuclear ribonucleoprotein polypeptide A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1855692	Nono	non-POU-domain-containing, octamer binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858195	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858211	Zranb2	zinc finger, RAN-binding domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858230	Sart3	squamous cell carcinoma antigen recognized by T cells 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858234	Caprin1	cell cycle associated protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858258	Eif3g	eukaryotic translation initiation factor 3, subunit G	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858330	Nxf1	nuclear RNA export factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1858910	Jmjd6	jumonji domain containing 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1859026	Cnot4	CCR4-NOT transcription complex, subunit 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1859158	Pabpn1	poly(A) binding protein, nuclear 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1859328	Cpsf3	cleavage and polyadenylation specificity factor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1860489	Ptbp2	polypyrimidine tract binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1860494	Ddx21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1860763	Eif3i	eukaryotic translation initiation factor 3, subunit I	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861601	Cpsf2	cleavage and polyadenylation specific factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861602	Cpsf4	cleavage and polyadenylation specific factor 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861727	Dkc1	dyskeratosis congenita 1, dyskerin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861749	Nom1	nucleolar protein with MIF4G domain 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861774	Rbms1	RNA binding motif, single stranded interacting protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1861776	Rbms2	RNA binding motif, single stranded interacting protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1889294	Rbm38	RNA binding motif protein 38	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1889295	Eral1	Era (G-protein)-like 1 (E. coli)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1889575	Adar	adenosine deaminase, RNA-specific	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890165	Larp1	La ribonucleoprotein domain family, member 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890470	Pcbp3	poly(rC) binding protein 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890471	Pcbp4	poly(rC) binding protein 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1891690	Syncrip	synaptotagmin binding, cytoplasmic RNA interacting protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1891706	Spen	SPEN homolog, transcriptional regulator (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1891839	Phax	phosphorylated adaptor for RNA export	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1891840	Ncbp1	nuclear cap binding protein subunit 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1891925	Hnrnph1	heterogeneous nuclear ribonucleoprotein H1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913129	Rbm8a	RNA binding motif protein 8a	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913144	Alyref2	Aly/REF export factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926224	Rbfox1	RNA binding protein, fox-1 homolog (C. elegans) 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926232	Srsf7	serine/arginine-rich splicing factor 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926465	Hnrnpm	heterogeneous nuclear ribonucleoprotein M	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926966	Eif3c	eukaryotic translation initiation factor 3, subunit C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1927165	Mettl3	methyltransferase like 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1927354	C1d	C1D nuclear receptor co-repressor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1927449	Zbp1	Z-DNA binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1928268	Ireb2	iron responsive element binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1928482	Mbnl1	muscleblind-like 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1928895	Isg20	interferon-stimulated protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1928897	Piwil1	piwi-like homolog 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1929237	Pus1	pseudouridine synthase 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1929520	Eef1b2	eukaryotic translation elongation factor 1 beta 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1930036	Piwil2	piwi-like homolog 2 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913305	0610009D07Rik	RIKEN cDNA 0610009D07 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913319	Snupn	snurportin 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913335	Eif3f	eukaryotic translation initiation factor 3, subunit F	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913354	Tceal3	transcription elongation factor A (SII)-like 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913368	Sarnp	SAP domain containing ribonucleoprotein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913376	Elof1	elongation factor 1 homolog (ELF1, S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913411	Pop4	processing of precursor 4, ribonuclease P/MRP family, (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913414	Nip7	nuclear import 7 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913481	Thoc7	THO complex 7 homolog (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913485	Eif1ax	eukaryotic translation initiation factor 1A, X-linked	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913499	Pno1	partner of NOB1 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913504	Dimt1	DIM1 dimethyladenosine transferase 1-like (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913508	Mrps17	mitochondrial ribosomal protein S17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913612	Exosc3	exosome component 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913619	Dus2l	dihydrouridine synthase 2-like (SMM1, S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913623	Lsm5	LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913634	Srp19	signal recognition particle 19	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913649	Tsfm	Ts translation elongation factor, mitochondrial	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913655	Mcts2	malignant T cell amplified sequence 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913658	Aptx	aprataxin	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913691	Magohb	mago-nashi homolog B (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913761	2500003M10Rik	RIKEN cDNA 2500003M10 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913789	Xpo5	exportin 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913833	Exosc1	exosome component 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913840	Farsa	phenylalanyl-tRNA synthetase, alpha subunit	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913846	Gtf3a	general transcription factor III A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913849	Rdm1	RAD52 motif 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913895	Pspc1	paraspeckle protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913906	Eef1d	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913910	Sltm	SAFB-like, transcription modulator	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913934	Tceal8	transcription elongation factor A (SII)-like 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913948	Cpsf6	cleavage and polyadenylation specific factor 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913954	Rbm4b	RNA binding motif protein 4B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913961	Sbds	Shwachman-Bodian-Diamond syndrome homolog (human)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1913965	4921515J06Rik	RIKEN cDNA 4921515J06 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914051	Prkrip1	Prkr interacting protein 1 (IL11 inducible)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914060	Rbm22	RNA binding motif protein 22	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914120	Serbp1	serpine1 mRNA binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914127	Crnkl1	Crn, crooked neck-like 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914142	Eif4e3	eukaryotic translation initiation factor 4E member 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914149	Fip1l1	FIP1 like 1 (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914176	Trmt6	tRNA methyltransferase 6 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914192	Ddx18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914260	Rbm7	RNA binding motif protein 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914275	Rpl11	ribosomal protein L11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914281	Upf3a	UPF3 regulator of nonsense transcripts homolog A (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914289	Rbm25	RNA binding motif protein 25	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914290	Ddx17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914297	Rars	arginyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914299	Pus3	pseudouridine synthase 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914370	Ttc14	tetratricopeptide repeat domain 14	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914384	Nop56	NOP56 ribonucleoprotein homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914398	Fam103a1	family with sequence similarity 103, member A1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914410	Eef1g	eukaryotic translation elongation factor 1 gamma	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914440	Eif4e2	eukaryotic translation initiation factor 4E member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914447	Zcrb1	zinc finger CCHC-type and RNA binding motif 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914454	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914457	Lsm1	LSM1 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914475	Rnpc3	RNA-binding region (RNP1, RRM) containing 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914526	Eri1	exoribonuclease 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914582	Snrpd3	small nuclear ribonucleoprotein D3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914637	Unc50	unc-50 homolog (C. elegans)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914640	Rnmtl1	RNA methyltransferase like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914667	Ears2	glutamyl-tRNA synthetase 2 (mitochondrial)(putative)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914668	Ppil4	peptidylprolyl isomerase (cyclophilin)-like 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914677	Rps20	ribosomal protein S20	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914690	Mtpap	mitochondrial poly(A) polymerase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914715	Sf3a1	splicing factor 3a, subunit 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914807	Larp6	La ribonucleoprotein domain family, member 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914828	Patl2	protein associated with topoisomerase II homolog 2 (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914829	Cpeb4	cytoplasmic polyadenylation element binding protein 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914917	Alkbh8	alkB, alkylation repair homolog 8 (E. coli)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914928	Lsm3	LSM3 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914931	Mrpl18	mitochondrial ribosomal protein L18	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914934	Luc7l3	LUC7-like 3 (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1914960	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915005	Ddx47	DEAD (Asp-Glu-Ala-Asp) box polypeptide 47	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915031	Ilf2	interleukin enhancer binding factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915092	2610027L16Rik	RIKEN cDNA 2610027L16 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915098	Ddx55	DEAD (Asp-Glu-Ala-Asp) box polypeptide 55	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915101	1700021F05Rik	RIKEN cDNA 1700021F05 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915119	Paip2	polyadenylate-binding protein-interacting protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915139	Rbm18	RNA binding motif protein 18	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915147	Rnmt	RNA (guanine-7-) methyltransferase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915199	Mki67ip	Mki67 (FHA domain) interacting nucleolar phosphoprotein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915208	2610101N10Rik	RIKEN cDNA 2610101N10 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915209	Puf60	poly-U binding splicing factor 60	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915218	Ooep	oocyte expressed protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915247	Ddx59	DEAD (Asp-Glu-Ala-Asp) box polypeptide 59	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915261	Snrpg	small nuclear ribonucleoprotein polypeptide G	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915285	Rbm42	RNA binding motif protein 42	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915302	Rps13	ribosomal protein S13	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915342	Ncbp2	nuclear cap binding protein subunit 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915384	Upf3b	UPF3 regulator of nonsense transcripts homolog B (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915385	Eif3h	eukaryotic translation initiation factor 3, subunit H	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915434	Denr	density-regulated protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915469	Nudt21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915746	Tceal7	transcription elongation factor A (SII)-like 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915783	Mphosph6	M phase phosphoprotein 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915814	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915822	Ict1	immature colon carcinoma transcript 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915851	Qars	glutaminyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1915986	1110034B05Rik	RIKEN cDNA 1110034B05 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916119	Imp3	IMP3, U3 small nucleolar ribonucleoprotein, homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916185	1190005F20Rik	RIKEN cDNA 1190005F20 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916205	Srrm4	serine/arginine repetitive matrix 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916219	Eif1b	eukaryotic translation initiation factor 1B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916231	Snrpa1	small nuclear ribonucleoprotein polypeptide A'	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916238	Prpf31	PRP31 pre-mRNA processing factor 31 homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916245	Mcts1	malignant T cell amplified sequence 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916340	Ascc1	activating signal cointegrator 1 complex subunit 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916394	1810035L17Rik	RIKEN cDNA 1810035L17 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916413	Mrpl44	mitochondrial ribosomal protein L44	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916658	Dnajc17	DnaJ (Hsp40) homolog, subfamily C, member 17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916889	Exosc8	exosome component 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916913	Ddx51	DEAD (Asp-Glu-Ala-Asp) box polypeptide 51	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916924	Mif4gd	MIF4G domain containing	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1916974	Rnaseh2a	ribonuclease H2, large subunit	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917057	Trim32	tripartite motif-containing 32	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917110	Eif1ad	eukaryotic translation initiation factor 1A domain containing	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917115	A1cf	APOBEC1 complementation factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917118	Ppie	peptidylprolyl isomerase E (cyclophilin E)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917128	Snrpf	small nuclear ribonucleoprotein polypeptide F	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917171	Hnrnpa3	heterogeneous nuclear ribonucleoprotein A3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917205	Fars2	phenylalanine-tRNA synthetase 2 (mitochondrial)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917294	Tut1	terminal uridylyl transferase 1, U6 snRNA-specific	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917297	Trnt1	tRNA nucleotidyl transferase, CCA-adding, 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917326	Esrp1	epithelial splicing regulatory protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917370	Yars2	tyrosyl-tRNA synthetase 2 (mitochondrial)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917433	Dzip3	DAZ interacting protein 3, zinc finger	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917447	Srp68	signal recognition particle 68	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917498	Dazap1	DAZ associated protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917535	Rpf1	ribosome production factor 1 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917826	Cpsf7	cleavage and polyadenylation specific factor 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917866	Sugp1	SURP and G patch domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917890	Dcp2	DCP2 decapping enzyme homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1917955	Fyttd1	forty-two-three domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918019	Nolc1	nucleolar and coiled-body phosphoprotein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918040	Ubr5	ubiquitin protein ligase E3 component n-recognin 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918066	Rpusd2	RNA pseudouridylate synthase domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918175	Cdkn2aip	CDKN2A interacting protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918309	Hexim2	hexamethylene bis-acetamide inducible 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918355	Mterfd2	MTERF domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918764	Sfpq	splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918830	Mtrf1l	mitochondrial translational release factor 1-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918836	Ifih1	interferon induced with helicase C domain 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918934	Rbm43	RNA binding motif protein 43	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918951	Pnpt1	polyribonucleotide nucleotidyltransferase 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918952	Cdc5l	cell division cycle 5-like (S. pombe)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1918973	Dhx34	DEAH (Asp-Glu-Ala-His) box polypeptide 34	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919016	Raver1	ribonucleoprotein, PTB-binding 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919037	Trnau1ap	tRNA selenocysteine 1 associated protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919186	Rpusd1	RNA pseudouridylate synthase domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919202	2410016O06Rik	RIKEN cDNA 2410016O06 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919236	Ddx28	DEAD (Asp-Glu-Ala-Asp) box polypeptide 28	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919239	Rpusd4	RNA pseudouridylate synthase domain containing 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919240	Ddx54	DEAD (Asp-Glu-Ala-Asp) box polypeptide 54	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919276	Trmu	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919297	Ddx42	DEAD (Asp-Glu-Ala-Asp) box polypeptide 42	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919352	Dusp11	dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919383	Trub1	TruB pseudouridine (psi) synthase homolog 1 (E. coli)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919412	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919414	Rbmx2	RNA binding motif protein, X-linked 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919417	Thumpd2	THUMP domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919540	Lsm11	U7 snRNP-specific Sm-like protein LSM11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919558	Brf1	BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919647	Rbm12b1	RNA binding motif protein 12 B1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919650	Pinx1	PIN2/TERF1 interacting, telomerase inhibitor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919666	Lrpprc	leucine-rich PPR-motif containing	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919668	Thoc1	THO complex 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919709	Htatsf1	HIV TAT specific factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919794	Exosc6	exosome component 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919824	Zc3h14	zinc finger CCCH type containing 14	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919884	Tdrkh	tudor and KH domain containing protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919900	2810006K23Rik	RIKEN cDNA 2810006K23 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919912	Dis3	DIS3 mitotic control homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919942	Hnrpll	heterogeneous nuclear ribonucleoprotein L-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1919955	Zcchc17	zinc finger, CCHC domain containing 17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920081	Dhx30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920185	Ddx41	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920196	Lrrc47	leucine rich repeat containing 47	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920442	Xpot	exportin, tRNA (nuclear export receptor for tRNAs)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920895	Ddx46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920916	Thoc3	THO complex 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1920963	Rbm20	RNA binding motif protein 20	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921076	Poldip3	polymerase (DNA-directed), delta interacting protein 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921080	Eif3k	eukaryotic translation initiation factor 3, subunit K	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921285	Nol9	nucleolar protein 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921358	Parn	poly(A)-specific ribonuclease (deadenylation nuclease)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921361	Rbm19	RNA binding motif protein 19	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921392	Lonp1	lon peptidase 1, mitochondrial	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921453	Eif4enif1	eukaryotic translation initiation factor 4E nuclear import factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921463	Rbm26	RNA binding motif protein 26	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921705	Nsun6	NOL1/NOP2/Sun domain family member 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1921717	Pus10	pseudouridylate synthase 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922028	Rrp7a	ribosomal RNA processing 7 homolog A (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922638	Boll	bol, boule-like (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922670	Secisbp2	SECIS binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922936	Nudt16	nudix (nucleoside diphosphate linked moiety X)-type motif 16	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922946	Prpf6	PRP6 pre-mRNA splicing factor 6 homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1922960	Rbm12	RNA binding motif protein 12	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923023	Adad2	adenosine deaminase domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923258	Obfc2a	oligonucleotide/oligosaccharide-binding fold containing 2A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923321	Jakmip1	janus kinase and microtubule interacting protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923334	Rod1	ROD1 regulator of differentiation 1 (S. pombe)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923417	Snrnp35	small nuclear ribonucleoprotein 35 (U11/U12)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923433	Celf6	CUGBP, Elav-like family member 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923576	Exosc4	exosome component 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923598	Rbm15b	RNA binding motif protein 15B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923616	Mtif3	mitochondrial translational initiation factor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923686	Tufm	Tu translation elongation factor, mitochondrial	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923729	Smndc1	survival motor neuron domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923731	Eif4a3	eukaryotic translation initiation factor 4A3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923772	Naa38	N(alpha)-acetyltransferase 38, NatC auxiliary subunit	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923876	Msi2	Musashi homolog 2 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923935	Eif4g3	eukaryotic translation initiation factor 4 gamma, 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1923939	Tceal6	transcription elongation factor A (SII)-like 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924034	Mtif2	mitochondrial translational initiation factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924096	Rps9	ribosomal protein S9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924100	Eif2c4	eukaryotic translation initiation factor 2C, 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924147	Ralyl	RALY RNA binding protein-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924188	Rbm17	RNA binding motif protein 17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924384	Hnrnpa0	heterogeneous nuclear ribonucleoprotein A0	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924536	Nkrf	NF-kappaB repressing factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924661	Esrp2	epithelial splicing regulatory protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924841	Ddx10	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924854	Rbm12b2	RNA binding motif protein 12 B2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1924971	Mrps5	mitochondrial ribosomal protein S5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1925212	Scaf8	SR-related CTD-associated factor 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1925644	Ddx52	DEAD (Asp-Glu-Ala-Asp) box polypeptide 52	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1925836	Srbd1	S1 RNA binding domain 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1925901	Lsm6	LSM6 homolog, U6 small nuclear RNA associated (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1925905	Eif3j	eukaryotic translation initiation factor 3, subunit J	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926031	Zc3hav1	zinc finger CCCH type, antiviral 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926034	Celf3	CUGBP, Elav-like family member 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1926145	Pus7l	pseudouridylate synthase 7 homolog (S. cerevisiae)-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1930128	Zc3h8	zinc finger CCCH type containing 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1930948	Gar1	GAR1 ribonucleoprotein homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1931560	Dhx58	DEXH (Asp-Glu-X-His) box polypeptide 58	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1931749	Pum1	pumilio 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1931751	Pum2	pumilio 2 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1932101	Ankrd17	ankyrin repeat domain 17	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1932115	Papolb	poly (A) polymerase beta (testis specific)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1932389	Tlr9	toll-like receptor 9	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1932407	Celf4	CUGBP, Elav-like family member 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1932622	Cstf2t	cleavage stimulation factor, 3' pre-RNA subunit 2, tau	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933148	Abtb1	ankyrin repeat and  BTB (POZ) domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933181	Eif3d	eukaryotic translation initiation factor 3, subunit D	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933192	Nxf2	nuclear RNA export factor 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933204	Rbm5	RNA binding motif protein 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890546	Lin28a	lin-28 homolog A (C. elegans)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933388	Bicc1	bicaudal C homolog 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933735	Eif5a2	eukaryotic translation initiation factor 5A2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1934754	Kars	lysyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933973	Rbfox2	RNA binding protein, fox-1 homolog (C. elegans) 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933972	Tra2a	transformer 2 alpha homolog (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2135637	Park7	Parkinson disease (autosomal recessive, early onset) 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2136689	Ddx49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2136773	Cwc22	CWC22 spliceosome-associated protein homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2137092	Eefsec	eukaryotic elongation factor, selenocysteine-tRNA-specific	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2137219	Mrpl16	mitochondrial ribosomal protein L16	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2137221	Mrpl20	mitochondrial ribosomal protein L20	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2137202	Mrpl1	mitochondrial ribosomal protein L1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2137670	Csda	cold shock domain protein A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2138477	Khdc1b	KH domain containing 1B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2138741	Hnrnpf	heterogeneous nuclear ribonucleoprotein F	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2140151	Nol6	nucleolar protein family 6 (RNA-associated)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2140279	Tdrd7	tudor domain containing 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2140494	Ppp1r8	protein phosphatase 1, regulatory (inhibitor) subunit 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2140770	Oas1d	2'-5' oligoadenylate synthetase 1D	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2141440	Rpusd3	RNA pseudouridylate synthase domain containing 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2141969	Eftud1	elongation factor Tu GTP binding domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2141980	Scaf1	SR-related CTD-associated factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2142951	Edc3	enhancer of mRNA decapping 3 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2143151	Rpp25	ribonuclease P 25 subunit (human)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2143272	Dis3l	DIS3 mitotic control homolog (S. cerevisiae)-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2144013	Xpo1	exportin 1, CRM1 homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2144305	Ccdc55	coiled-coil domain containing 55	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2144529	Cnot6	CCR4-NOT transcription complex, subunit 6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2144727	Ddx1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2145118	Eif2b2	eukaryotic translation initiation factor 2B, subunit 2 beta	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2145374	Dhx29	DEAH (Asp-Glu-Ala-His) box polypeptide 29	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2145597	Mbnl2	muscleblind-like 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2146027	Csdc2	cold shock domain containing C2, RNA binding	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2146285	Nol12	nucleolar protein 12	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2146808	Safb2	scaffold attachment factor B2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2146974	Safb	scaffold attachment factor B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2147194	Rbm27	RNA binding motif protein 27	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2147627	Yars	tyrosyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2147679	Patl1	protein associated with topoisomerase II homolog 1 (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1933184	Nop58	NOP58 ribonucleoprotein homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2149633	Oas1c	2'-5' oligoadenylate synthetase 1C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2151045	Lsm10	U7 snRNP-specific Sm-like protein LSM10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2151114	Dgcr8	DiGeorge syndrome critical region gene 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2151118	Adarb2	adenosine deaminase, RNA-specific, B2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2151152	Baz2a	bromodomain adjacent to zinc finger domain, 2A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2153111	Mrps6	mitochondrial ribosomal protein S6	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890357	Igf2bp1	insulin-like growth factor 2 mRNA binding protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890358	Igf2bp2	insulin-like growth factor 2 mRNA binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:1890359	Igf2bp3	insulin-like growth factor 2 mRNA binding protein 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2156367	Tlr3	toll-like receptor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2157953	Rbm39	RNA binding motif protein 39	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2159649	Khdrbs2	KH domain containing, RNA binding, signal transduction associated 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2159343	Nxf7	nuclear RNA export factor 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2176882	Tlr7	toll-like receptor 7	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2176887	Tlr8	toll-like receptor 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2177178	Dicer1	dicer 1, ribonuclease type III	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2179381	Prpf8	pre-mRNA processing factor 8	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2179723	Casc3	cancer susceptibility candidate 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180849	Oasl1	2'-5' oligoadenylate synthetase-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180850	Oas3	2'-5' oligoadenylate synthetase 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180852	Oas2	2'-5' oligoadenylate synthetase 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180853	Oas1h	2'-5' oligoadenylate synthetase 1H	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180856	Oas1e	2'-5' oligoadenylate synthetase 1E	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2180860	Oas1a	2'-5' oligoadenylate synthetase 1A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2182303	Ddx50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384310	Rbm10	RNA binding motif protein 10	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384294	Rbm47	RNA binding motif protein 47	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384560	Aars	alanyl-tRNA synthetase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384570	Ddx60	DEAD (Asp-Glu-Ala-Asp) box polypeptide 60	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385923	Hexim1	hexamethylene bis-acetamide inducible 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2386251	Eif3l	eukaryotic translation initiation factor 3, subunit L	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384802	Eif2b1	eukaryotic translation initiation factor 2B, subunit 1 (alpha)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2387367	Rbm45	RNA binding motif protein 45	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384815	Mtrf1	mitochondrial translational release factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385598	Slu7	SLU7 splicing factor homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2387894	Snord87	small nucleolar RNA, C/D box 87	snoRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:2384313	Rrp9	RRP9, small subunit (SSU) processome component, homolog (yeast)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2387629	Tardbp	TAR DNA binding protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446630	Eif2c1	eukaryotic translation initiation factor 2C, 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446632	Eif2c2	eukaryotic translation initiation factor 2C, 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446634	Eif2c3	eukaryotic translation initiation factor 2C, 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446636	Eif2c5	eukaryotic translation initiation factor 2C, 5	unclassified gene
+GO:0003723	Gene Ontology (GO)	MGI:2447622	Rbm11	RNA binding motif protein 11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2441711	Supv3l1	suppressor of var1, 3-like 1 (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2441772	Eif5b	eukaryotic translation initiation factor 5B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442040	G3bp2	GTPase activating protein (SH3 domain) binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442119	Papolg	poly(A) polymerase gamma	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442186	Trub2	TruB pseudouridine (psi) synthase homolog 2 (E. coli)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442413	Thoc2	THO complex 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442555	Dis3l2	DIS3 mitotic control homolog (S. cerevisiae)-like 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442640	Cpeb2	cytoplasmic polyadenylation element binding protein 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442653	C030048B08Rik	RIKEN cDNA C030048B08 gene	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2442858	Ddx58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443075	Cpeb3	cytoplasmic polyadenylation element binding protein 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443114	Larp4	La ribonucleoprotein domain family, member 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443265	Tnrc6c	trinucleotide repeat containing 6C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443470	Mrm1	mitochondrial rRNA methyltransferase 1 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443517	Hnrnpul1	heterogeneous nuclear ribonucleoprotein U-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443590	Ddx11	DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443623	Raver2	ribonucleoprotein, PTB-binding 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443730	Tnrc6b	trinucleotide repeat containing 6b	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2443758	Akap17b	A kinase (PRKA) anchor protein 17B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444023	Tdrd3	tudor domain containing 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444477	Rbms3	RNA binding motif, single stranded interacting protein	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444479	Thumpd1	THUMP domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444505	Marf1	meiosis arrest female 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444923	Rbm41	RNA binding motif protein 41	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2444934	Ppargc1b	peroxisome proliferative activated receptor, gamma, coactivator 1 beta	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2449311	Gemin5	gem (nuclear organelle) associated protein 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385206	Pabpc4	poly(A) binding protein, cytoplasmic 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384784	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385277	Ctu1	cytosolic thiouridylase subunit 1 homolog (S. pombe)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384993	Paip1	polyadenylate binding protein-interacting protein 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385133	Exosc2	exosome component 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385191	Gtf2b	general transcription factor IIB	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2655711	Rbm28	RNA binding motif protein 28	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2660674	Mrpl21	mitochondrial ribosomal protein L21	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446176	Eif2b5	eukaryotic translation initiation factor 2B, subunit 5 epsilon	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2448541	Caprin2	caprin family member 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2447763	Dnd1	dead end homolog 1 (zebrafish)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2652843	Mex3c	mex3 homolog C (C. elegans)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385317	Tceal1	transcription elongation factor A (SII)-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2446163	Fam120a	family with sequence similarity 120A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2669254	Nanos1	nanos homolog 1 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2386865	Paip2b	poly(A) binding protein interacting protein 2B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2652820	Setd1b	SET domain containing 1B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2384933	Wrap53	WD repeat containing, antisense to TP53	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385071	Etf1	eukaryotic translation termination factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2675387	Nanos3	nanos homolog 3 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2676610	Khdc1a	KH domain containing 1A	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2676807	Mir124a-1	microRNA 124a-1	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:2676808	Mir124b	microRNA 124b	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:2677480	Thoc6	THO complex 6 homolog (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385096	Pprc1	peroxisome proliferative activated receptor, gamma, coactivator-related 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2678085	Sugp2	SURP and G patch domain containing 2	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2678374	U2af1l4	U2 small nuclear RNA auxiliary factor 1-like 4	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2385292	Tnrc6a	trinucleotide repeat containing 6a	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2679252	Mthfsd	methenyltetrahydrofolate synthetase domain containing	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2679722	Cpsf1	cleavage and polyadenylation specific factor 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2676627	Nanos2	nanos homolog 2 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2682639	Ddx31	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 31	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2681847	Mex3d	mex3 homolog D (C. elegans)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685119	Eif4e1b	eukaryotic translation initiation factor 4E family member 1B	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685230	Nxf3	nuclear RNA export factor 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685397	Rc3h1	RING CCCH (C3H) domains 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685518	Ctif	CBP80/20-dependent translation initiation factor	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685663	Rbm44	RNA binding motif protein 44	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685945	Pstk	phosphoseryl-tRNA kinase	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2685954	Pabpn1l	poly(A)binding protein nuclear 1-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2681839	Aars2	alanyl-tRNA synthetase 2, mitochondrial (putative)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:2682306	Naf1	nuclear assembly factor 1 homolog (S. cerevisiae)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3034689	Fbll1	fibrillarin-like 1	gene
+GO:0003723	Gene Ontology (GO)	MGI:3036236	Tceal5	transcription elongation factor A (SII)-like 5	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3041167	Piwil4	piwi-like homolog 4 (Drosophila)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3047787	Pusl1	pseudouridylate synthase-like 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3525151	Zfp36l3	zinc finger protein 36, C3H type-like 3	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3583007	Khdc1c	KH domain containing 1C	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3584032	Lin28b	lin-28 homolog B (C. elegans)	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3584513	Fdxacb1	ferredoxin-fold anticodon binding domain containing 1	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3610364	Rbm24	RNA binding motif protein 24	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3618700	Mir124a-2	microRNA 124a-2	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:3618704	Mir124a-3	microRNA 124a-3	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:3645057	Rbm46	RNA binding motif protein 46	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3648257	Gm5662	predicted gene 5662	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3694797	Atxn1l	ataxin 1-like	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3704486	Gm9781	predicted gene 9781	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3711327	Mir294	microRNA 294	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:3783378	Mir466l	microRNA 466l	miRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:3780185	Gm2016	predicted gene 2016	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3780191	Gm2022	predicted pseudogene 2022	gene
+GO:0003723	Gene Ontology (GO)	MGI:3780214	Gm2046	predicted gene 2046	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:3780242	Gm2075	predicted pseudogene 2075	gene
+GO:0003723	Gene Ontology (GO)	MGI:3781554	Gm3376	predicted gene 3376	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:4413807	n-Tc40	nuclear encoded tRNA cysteine 40 (anticodon GCA)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4413892	n-Th2	nuclear encoded tRNA histidine 2 (anticodon GTG)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4413893	n-Th3	nuclear encoded tRNA histidine 3 (anticodon GTG)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4413895	n-Th5	nuclear encoded tRNA histidine 5 (anticodon GTG)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4413898	n-Th8	nuclear encoded tRNA histidine 8 (anticodon GTG)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4414022	n-Ts2	nuclear encoded tRNA selenocysteine 2 (anticodon TCA)	tRNA gene
+GO:0003723	Gene Ontology (GO)	MGI:4937126	Gm17492	predicted gene, 17492	protein coding gene
+GO:0003723	Gene Ontology (GO)	MGI:5313143	Gm20696	predicted gene 20696	protein coding gene
